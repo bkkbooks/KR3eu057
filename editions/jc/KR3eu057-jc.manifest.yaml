@@ -1,0 +1,1425 @@
+canonical_identifier: bkk:krp/KR3eu057/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eu057/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 痘科辨要
+  identifiers:
+    krp: KR3eu057
+  tags:
+    kr-categories: KR3eu
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu057.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu057_000-jc.yaml, hash: 'sha256:bf6973c3e253e49d64cbca4b865a03536aa1a04fb87278ce10bd88c8fe215864'}
+  - {seq: 1, filename: KR3eu057_001-jc.yaml, hash: 'sha256:b13b6dbf09ce5a881379de6c4bb8c7db1395ae2f6f68d9cd5d700efaf98f6360'}
+  - {seq: 2, filename: KR3eu057_002-jc.yaml, hash: 'sha256:a032e6505a6fbcef09241083cbbfe5b0c5add3dc3aa0fecef36af9b5bfbfa33e'}
+  - {seq: 3, filename: KR3eu057_003-jc.yaml, hash: 'sha256:8100cf821f79961c3932b6fa970a07984c40c4691e2558df99ab192ff82d003f'}
+  - {seq: 4, filename: KR3eu057_004-jc.yaml, hash: 'sha256:a9ea3d61383d6521945de6114956c2f3cc3ae4ea34b9612c6a9568009fcbeb78'}
+  - {seq: 5, filename: KR3eu057_005-jc.yaml, hash: 'sha256:40934f22d09a3f09bf3989d56c7dcc8ed3b16af5baef74cd93346cbf0b514353'}
+  - {seq: 6, filename: KR3eu057_006-jc.yaml, hash: 'sha256:bd688da494ca2b715e927bdcebec1d7716374106c50ac2495998977f6dd84259'}
+  - {seq: 7, filename: KR3eu057_007-jc.yaml, hash: 'sha256:e0679a620b200b0044f3edeb8911c54882a8f029d2d6a805212f066fdf7b3dea'}
+  - {seq: 8, filename: KR3eu057_008-jc.yaml, hash: 'sha256:3594929771d7be4754ea3b9ab9ac554753471bca0dd7ac49572e1ded86af42bb'}
+  - {seq: 9, filename: KR3eu057_009-jc.yaml, hash: 'sha256:783daec7864a403f3f5db1117ee6954b8c8e4c9d820173702076fa663d5fd986'}
+  - {seq: 10, filename: KR3eu057_010-jc.yaml, hash: 'sha256:7dcc5eddadbefcd5badae20d2df9e09eaaaa9bdfcd2f3f9889b6e127edf85d30'}
+  - {seq: 0, filename: KR3eu057_000-jc.yaml, hash: 'sha256:210e32c2a149ee773c674a880c46a35df78833b29421e2240a6c680ccca818ca'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu057_000-jc.markers.yaml, hash: 'sha256:1f552e23285ed0ac7206dfaf209bc295e6dae746b74955b7826dddd3a7d373f3'}
+  - {seq: 1, role: markers, filename: assets/KR3eu057_001-jc.markers.yaml, hash: 'sha256:c0a5b8d374c0049948123b4b543bdaf246621711101f3aeb5f31eebf86991905'}
+  - {seq: 2, role: markers, filename: assets/KR3eu057_002-jc.markers.yaml, hash: 'sha256:1090a93e0e866e655275adb883f25b4822856ca2fd271ce588261f92f7ee81dc'}
+  - {seq: 3, role: markers, filename: assets/KR3eu057_003-jc.markers.yaml, hash: 'sha256:fab808a8d0024e2f40956cd3ed19e7c3c8720316924ff2c412ec69a3eb58d824'}
+  - {seq: 4, role: markers, filename: assets/KR3eu057_004-jc.markers.yaml, hash: 'sha256:c756307ed8bc7ec1d813efb2991c4bbf4fbda5614637f9d6892d4709b8acf5b4'}
+  - {seq: 5, role: markers, filename: assets/KR3eu057_005-jc.markers.yaml, hash: 'sha256:acea296b7b1fd27e12d0a84b8b76f776bac858e338a20f897a588870c22bfd00'}
+  - {seq: 6, role: markers, filename: assets/KR3eu057_006-jc.markers.yaml, hash: 'sha256:cb5531d48a72339ef1a29e200a82afc7c77af335306d1e8eb72502e7657dbdd9'}
+  - {seq: 7, role: markers, filename: assets/KR3eu057_007-jc.markers.yaml, hash: 'sha256:d26fbcffbfb779a117a5c94362f841f63e8461771ba24cc8045b948c9530247c'}
+  - {seq: 8, role: markers, filename: assets/KR3eu057_008-jc.markers.yaml, hash: 'sha256:28a7db3331b63a7f5f7bd56d9d0d864ebe8ee9ed8c6b0022ebe4d14dba60aad3'}
+  - {seq: 9, role: markers, filename: assets/KR3eu057_009-jc.markers.yaml, hash: 'sha256:df44f07b95cfe68be91c358a5ccca8e796e6517e1eaabb689d97574960506946'}
+  - {seq: 10, role: markers, filename: assets/KR3eu057_010-jc.markers.yaml, hash: 'sha256:b4ed6509e2124f6c05f6bad5c1a86be74e977b48eda1aa4d5c8fcfa453cdaf6a'}
+  - {seq: 0, role: markers, filename: assets/KR3eu057_000-jc.markers.yaml, hash: 'sha256:1f552e23285ed0ac7206dfaf209bc295e6dae746b74955b7826dddd3a7d373f3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu057_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 502
+  label: 重校痘科辨要敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu057_jc_000-d3.h1s1
+    span:
+    - body
+    - 502
+    - 2041
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 5057
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 183
+  label: 窮玄
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d3
+    span:
+    - body
+    - 183
+    - 960
+  label: 辨熱因
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d4
+    span:
+    - body
+    - 960
+    - 1174
+  label: 辨面上位部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d5
+    span:
+    - body
+    - 1174
+    - 1363
+  label: 面部八隅三停圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d6
+    span:
+    - body
+    - 1363
+    - 1548
+  label: 辨面部諸位配合口訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d7
+    span:
+    - body
+    - 1548
+    - 1555
+  label: 面部諸位配合圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d8
+    span:
+    - body
+    - 1555
+    - 2856
+  label: 辨面部六十位
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d9
+    span:
+    - body
+    - 2856
+    - 2862
+  label: 面部六十位圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d10
+    span:
+    - body
+    - 2862
+    - 2975
+  label: 辨七日五傳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d11
+    span:
+    - body
+    - 2975
+    - 3229
+  label: 辨氣血盈虧
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d12
+    span:
+    - body
+    - 3229
+    - 3981
+  label: 辨四項口訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu057_jc_001-d4d13
+    span:
+    - body
+    - 3981
+    - 5057
+  label: 辨神氣口訣
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8561
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 743
+  label: 辨四節八證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d3
+    span:
+    - body
+    - 743
+    - 926
+  label: 辨毒壅痘證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d4
+    span:
+    - body
+    - 926
+    - 1159
+  label: 辨血熱痘證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d5
+    span:
+    - body
+    - 1159
+    - 1402
+  label: 辨氣虛痘證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d6
+    span:
+    - body
+    - 1402
+    - 1628
+  label: 辨血虛痘證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d7
+    span:
+    - body
+    - 1628
+    - 1831
+  label: 辨表實痘證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d8
+    span:
+    - body
+    - 1831
+    - 2041
+  label: 辨表虛痘證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d9
+    span:
+    - body
+    - 2041
+    - 2324
+  label: 辨裡虛痘證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d10
+    span:
+    - body
+    - 2324
+    - 2654
+  label: 辨裡實痘證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d11
+    span:
+    - body
+    - 2654
+    - 2930
+  label: 辨順痘不服藥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d12
+    span:
+    - body
+    - 2930
+    - 3212
+  label: 辨熱毒壅遏肌肉痘不發透治例
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d13
+    span:
+    - body
+    - 3212
+    - 3452
+  label: 辨表虛氣虛血虛內虛治例
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d14
+    span:
+    - body
+    - 3452
+    - 3878
+  label: 辨血熱血實血毒治例
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d15
+    span:
+    - body
+    - 3878
+    - 4147
+  label: 辨火極治例
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d16
+    span:
+    - body
+    - 4147
+    - 4394
+  label: 辨雖利而可下治例
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d17
+    span:
+    - body
+    - 4394
+    - 4716
+  label: 辨熱毒已解相繼用溫補治例
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d18
+    span:
+    - body
+    - 4716
+    - 5256
+  label: 辨虛實不切脈審內外之證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d19
+    span:
+    - body
+    - 5256
+    - 5910
+  label: 辨痘經用藥調養法七條
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d20
+    span:
+    - body
+    - 5910
+    - 6361
+  label: 辨用毒藥攻毒
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d21
+    span:
+    - body
+    - 6361
+    - 6824
+  label: 辨廣東人參
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu057_jc_002-d5d22
+    span:
+    - body
+    - 6824
+    - 8561
+  label: 辨清涼溫補之衷
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 12470
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 1260
+  label: 辨發熱三日順險逆證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d2d4
+    span:
+    - body
+    - 59
+    - 318
+  label: 順證勿服藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d2d5
+    span:
+    - body
+    - 318
+    - 773
+  label: 險證宜加治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d2d6
+    span:
+    - body
+    - 773
+    - 1260
+  label: 逆證不治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6d3
+    span:
+    - body
+    - 1260
+    - 4599
+  label: 辨見點三日順險逆證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d3d2
+    span:
+    - body
+    - 1269
+    - 1819
+  label: 順證勿服藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d3d3
+    span:
+    - body
+    - 1819
+    - 3358
+  label: 險證可加治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d3d4
+    span:
+    - body
+    - 3358
+    - 4599
+  label: 逆證不治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6d4
+    span:
+    - body
+    - 4599
+    - 6865
+  label: 辨起脹三日順險逆證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d4d2
+    span:
+    - body
+    - 4608
+    - 4849
+  label: 順證勿服藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d4d3
+    span:
+    - body
+    - 4849
+    - 6058
+  label: 險證可加治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d4d4
+    span:
+    - body
+    - 6058
+    - 6865
+  label: 逆證勿治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6d5
+    span:
+    - body
+    - 6865
+    - 9430
+  label: 辨灌膿三日順險逆證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d5d2
+    span:
+    - body
+    - 6874
+    - 7290
+  label: 順證勿加治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d5d3
+    span:
+    - body
+    - 7290
+    - 8581
+  label: 險證可加治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d5d4
+    span:
+    - body
+    - 8581
+    - 9430
+  label: 逆證勿治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6d6
+    span:
+    - body
+    - 9430
+    - 11462
+  label: 辨收靨二日順險逆證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d6d2
+    span:
+    - body
+    - 9439
+    - 9826
+  label: 順證可加治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d6d3
+    span:
+    - body
+    - 9826
+    - 10747
+  label: 險證可加治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d6d4
+    span:
+    - body
+    - 10747
+    - 11462
+  label: 逆證勿治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6d7
+    span:
+    - body
+    - 11462
+    - 12470
+  label: 辨落痂三日順險逆證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d7d2
+    span:
+    - body
+    - 11471
+    - 11614
+  label: 順證可加治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d7d3
+    span:
+    - body
+    - 11614
+    - 12013
+  label: 險證可加治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eu057_jc_003-d6.d7d4
+    span:
+    - body
+    - 12013
+    - 12470
+  label: 逆證勿治
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 9659
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 2116
+  label: 辨初熱三日
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7.d2d28
+    span:
+    - body
+    - 1903
+    - 2116
+  label: 戲猴出痘
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7d3
+    span:
+    - body
+    - 2116
+    - 3369
+  label: 初發三日用方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7d4
+    span:
+    - body
+    - 3369
+    - 3952
+  label: 辨見苗三日諸證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7d5
+    span:
+    - body
+    - 3952
+    - 5262
+  label: 辨虛痘治例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7.d5d14
+    span:
+    - body
+    - 4767
+    - 5262
+  label: 附可吐一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7d6
+    span:
+    - body
+    - 5262
+    - 7847
+  label: 辨見苗三日清火治例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7.d6d22
+    span:
+    - body
+    - 7031
+    - 7847
+  label: 附痘內夾痧一逆證
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7d7
+    span:
+    - body
+    - 7847
+    - 8347
+  label: 見苗三日虛證用方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7d8
+    span:
+    - body
+    - 8347
+    - 9438
+  label: 清火用方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu057_jc_004-d7d9
+    span:
+    - body
+    - 9438
+    - 9659
+  label: 清補用方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8.h1s1
+    span:
+    - body
+    - 0
+    - 12055
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d2
+    span:
+    - body
+    - 2
+    - 398
+  label: 辨起脹三日
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d3
+    span:
+    - body
+    - 398
+    - 2683
+  label: 辨起脹三日治例
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8.d3d24
+    span:
+    - body
+    - 2152
+    - 2683
+  label: 附經大病氣血未復忽然患痘一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d4
+    span:
+    - body
+    - 2683
+    - 4091
+  label: 辨起脹三日清火治例
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8.d4d12
+    span:
+    - body
+    - 3619
+    - 4091
+  label: 附火極一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d5
+    span:
+    - body
+    - 4091
+    - 5153
+  label: 辨清補治例
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d6
+    span:
+    - body
+    - 5153
+    - 6286
+  label: 起脹三日虛痘用方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d7
+    span:
+    - body
+    - 6286
+    - 6653
+  label: 起脹三日清火用方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d8
+    span:
+    - body
+    - 6653
+    - 6905
+  label: 清補用方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d9
+    span:
+    - body
+    - 6905
+    - 7194
+  label: 辨灌漿三日
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d10
+    span:
+    - body
+    - 7194
+    - 9273
+  label: 辨灌漿三日虛痘治例
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8.d10d24
+    span:
+    - body
+    - 8806
+    - 9273
+  label: 附峻補一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d11
+    span:
+    - body
+    - 9273
+    - 10236
+  label: 辨灌漿三日清火治例
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8.d11d8
+    span:
+    - body
+    - 9713
+    - 10236
+  label: 附首尾用清涼一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d12
+    span:
+    - body
+    - 10236
+    - 10768
+  label: 辨灌漿清補治例
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d13
+    span:
+    - body
+    - 10768
+    - 11931
+  label: 灌漿三日用方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu057_jc_005-d8d14
+    span:
+    - body
+    - 11931
+    - 12055
+  label: 灌漿清火用方
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eu057_jc_006-d9.h1s1
+    span:
+    - body
+    - 0
+    - 7185
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3eu057_jc_006-d9d2
+    span:
+    - body
+    - 2
+    - 813
+  label: 辨收靨三日
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eu057_jc_006-d9d3
+    span:
+    - body
+    - 813
+    - 2454
+  label: 辨收靨三日虛痘治例
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eu057_jc_006-d9.d3d18
+    span:
+    - body
+    - 2071
+    - 2454
+  label: 附痘中見蛔一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3eu057_jc_006-d9d4
+    span:
+    - body
+    - 2454
+    - 5253
+  label: 辨收靨清火治例
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eu057_jc_006-d9.d4d20
+    span:
+    - body
+    - 3858
+    - 5253
+  label: 附痘毒不混他病一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3eu057_jc_006-d9d5
+    span:
+    - body
+    - 5253
+    - 7185
+  label: 收靨結痂用方
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eu057_jc_007-d10.h1s1
+    span:
+    - body
+    - 0
+    - 8326
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3eu057_jc_007-d10d2
+    span:
+    - body
+    - 2
+    - 1396
+  label: 辨女子出痘
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eu057_jc_007-d10d3
+    span:
+    - body
+    - 1396
+    - 1930
+  label: 婦女孕婦主方
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eu057_jc_007-d10d4
+    span:
+    - body
+    - 1930
+    - 2479
+  label: 辨麻疹諸證
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eu057_jc_007-d10d5
+    span:
+    - body
+    - 2479
+    - 2874
+  label: 初發身熱麻𤺋欲出之圖說
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eu057_jc_007-d10d6
+    span:
+    - body
+    - 2874
+    - 7676
+  label: 麻𤺋用方
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eu057_jc_007-d10d7
+    span:
+    - body
+    - 7676
+    - 8326
+  label: 辨死證
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eu057_jc_008-d11.h1s1
+    span:
+    - body
+    - 0
+    - 3483
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3eu057_jc_008-d11d2
+    span:
+    - body
+    - 2
+    - 838
+  label: 辨夾蛔本原
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eu057_jc_008-d11d3
+    span:
+    - body
+    - 838
+    - 2556
+  label: 辨夾蛔諸證
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eu057_jc_008-d11d4
+    span:
+    - body
+    - 2556
+    - 3483
+  label: 夾蛔用方
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.h1s1
+    span:
+    - body
+    - 0
+    - 6272
+  label: 卷九附錄
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12d2
+    span:
+    - body
+    - 4
+    - 6272
+  label: 異證治驗十一條
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d2
+    span:
+    - body
+    - 11
+    - 477
+  label: 記試痘一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d3
+    span:
+    - body
+    - 477
+    - 1062
+  label: 記鼻口兩陰失血凶證
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d4
+    span:
+    - body
+    - 1062
+    - 1551
+  label: 記痘聚於咽喉一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d5
+    span:
+    - body
+    - 1551
+    - 2270
+  label: 記熱毒入血室發狂妄一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d6
+    span:
+    - body
+    - 2270
+    - 2896
+  label: 記嬌嫩一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d7
+    span:
+    - body
+    - 2896
+    - 3291
+  label: 記峻涼太過變為壞症一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d8
+    span:
+    - body
+    - 3291
+    - 3874
+  label: 記血從痘頂走出一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d9
+    span:
+    - body
+    - 3874
+    - 4327
+  label: 記靨後結痘疔一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d10
+    span:
+    - body
+    - 4327
+    - 4882
+  label: 記疫癘痘一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d11
+    span:
+    - body
+    - 4882
+    - 5767
+  label: 記痘中見蛔乾嘔不止一治驗
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eu057_jc_009-d12.d2d12
+    span:
+    - body
+    - 5767
+    - 6272
+  label: 記舌上生黑痘一凶證
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13.h1s1
+    span:
+    - body
+    - 0
+    - 12207
+  label: 卷十方選
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d2
+    span:
+    - body
+    - 4
+    - 779
+  label: 初發三日用方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d3
+    span:
+    - body
+    - 779
+    - 1108
+  label: 見點三日虛痘用方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d4
+    span:
+    - body
+    - 1108
+    - 1766
+  label: 見點三日清火用方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d5
+    span:
+    - body
+    - 1766
+    - 1892
+  label: 清補用方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d6
+    span:
+    - body
+    - 1892
+    - 2696
+  label: 起脹三日虛痘用方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d7
+    span:
+    - body
+    - 2696
+    - 3050
+  label: 起脹三日清火用方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d8
+    span:
+    - body
+    - 3050
+    - 3232
+  label: 起脹三日清補用方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d9
+    span:
+    - body
+    - 3232
+    - 3872
+  label: 灌漿三日補益用方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d10
+    span:
+    - body
+    - 3872
+    - 5433
+  label: 收靨結痂用方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d11
+    span:
+    - body
+    - 5433
+    - 6001
+  label: 女子出痘用方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d12
+    span:
+    - body
+    - 6001
+    - 8830
+  label: 雜方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d13
+    span:
+    - body
+    - 8830
+    - 10749
+  label: 辨麻疹首尾用法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu057_jc_010-d13d14
+    span:
+    - body
+    - 10749
+    - 12207
+  label: 升堂門生錄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu057_jc_000-d14.h1s1
+    span:
+    - body
+    - 0
+    - 522
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:be913aa2080d9c9147ab653893f1bb09d9bb99170453ac651f86f88c55194e58
