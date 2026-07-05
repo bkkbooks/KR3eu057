@@ -39,7 +39,6 @@ markers:
   - {type: 'tls:seg', offset: 87, content: '', id: KR3eu057_jc_008-d11.d2.p4s5}
   - {type: punctuation, offset: 94, content: 。, id: KR3eu057_jc_008-bkkpn16}
   - {type: 'tls:seg', offset: 94, content: '', id: KR3eu057_jc_008-d11.d2.p4s6}
-  - {type: substitution, offset: 94, original: 迨, replacement: 逮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3085}}
   - {type: punctuation, offset: 99, content: 。, id: KR3eu057_jc_008-bkkpn17}
   - {type: 'tls:seg', offset: 99, content: '', id: KR3eu057_jc_008-d11.d2.p4s7}
   - {type: punctuation, offset: 105, content: 。, id: KR3eu057_jc_008-bkkpn18}
@@ -126,7 +125,6 @@ markers:
   - {type: 'tls:seg', offset: 311, content: '', id: KR3eu057_jc_008-d11.d2.p4s48}
   - {type: punctuation, offset: 316, content: 。, id: KR3eu057_jc_008-bkkpn59}
   - {type: 'tls:seg', offset: 316, content: '', id: KR3eu057_jc_008-d11.d2.p4s49}
-  - {type: substitution, offset: 318, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: punctuation, offset: 320, content: 。, id: KR3eu057_jc_008-bkkpn60}
   - {type: 'tls:seg', offset: 320, content: '', id: KR3eu057_jc_008-d11.d2.p4s50}
   - {type: punctuation, offset: 327, content: 。, id: KR3eu057_jc_008-bkkpn61}
@@ -219,7 +217,6 @@ markers:
   - {type: 'tls:seg', offset: 547, content: '', id: KR3eu057_jc_008-d11.d2.p6s38}
   - {type: punctuation, offset: 556, content: 。, id: KR3eu057_jc_008-bkkpn104}
   - {type: 'tls:seg', offset: 556, content: '', id: KR3eu057_jc_008-d11.d2.p6s39}
-  - {type: substitution, offset: 560, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 564, content: 。, id: KR3eu057_jc_008-bkkpn105}
   - {type: 'tls:seg', offset: 564, content: '', id: KR3eu057_jc_008-d11.d2.p6s40}
   - {type: punctuation, offset: 569, content: 。, id: KR3eu057_jc_008-bkkpn106}
@@ -244,7 +241,6 @@ markers:
   - {type: 'tls:seg', offset: 615, content: '', id: KR3eu057_jc_008-d11.d2.p6s50}
   - {type: punctuation, offset: 619, content: 。, id: KR3eu057_jc_008-bkkpn116}
   - {type: 'tls:seg', offset: 619, content: '', id: KR3eu057_jc_008-d11.d2.p6s51}
-  - {type: substitution, offset: 620, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 624, content: 。, id: KR3eu057_jc_008-bkkpn117}
   - {type: 'tls:seg', offset: 624, content: '', id: KR3eu057_jc_008-d11.d2.p6s52}
   - {type: punctuation, offset: 628, content: 。, id: KR3eu057_jc_008-bkkpn118}
@@ -761,7 +757,6 @@ markers:
   - {type: 'tls:seg', offset: 1867, content: '', id: KR3eu057_jc_008-d11.d3.p24s9}
   - {type: punctuation, offset: 1876, content: 。, id: KR3eu057_jc_008-bkkpn362}
   - {type: 'tls:seg', offset: 1876, content: '', id: KR3eu057_jc_008-d11.d3.p24s10}
-  - {type: substitution, offset: 1880, original: 慄, replacement: 栗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0895}}
   - {type: punctuation, offset: 1881, content: 。, id: KR3eu057_jc_008-bkkpn363}
   - {type: 'tls:seg', offset: 1881, content: '', id: KR3eu057_jc_008-d11.d3.p24s11}
   - {type: punctuation, offset: 1885, content: 。, id: KR3eu057_jc_008-bkkpn364}
@@ -1513,4 +1508,4 @@ markers:
   - {type: punctuation, offset: 3483, content: 。, id: KR3eu057_jc_008-bkkpn691}
   - {type: xml-element, offset: 3483, content: '', id: KR3eu057_jc_008-d11.d4p50_end, name: p, role: close, attrs: {'xml:id': KR3eu057_jc_008-d11.d4p50}}
   back: []
-hash: sha256:836a383daedea6f984be5ae1e2dfb22231c2218921cbb21b7048acafba54c6c4
+hash: sha256:56b28ac6a804b5920844dc3ded4f2407cdafbe942f1152be45a561bd0e7738a0
